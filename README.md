@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href=https://www.linkedin.com/in/aaron-rendall-036b41272">
+  <a href=https://www.linkedin.com/in/aaron-rendall-036b41272/">
     <img height="60" alt="image" src="https://github.com/user-attachments/assets/28bdd3cc-126c-4869-a159-bd99d3cea4c2" />
 
   </a>
