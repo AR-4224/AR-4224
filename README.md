@@ -29,7 +29,7 @@ fields_of_interest:
     "Game Development"
   ]
 
-currently_learning: ReactJS
+currently_learning: C# and C++
 hobbies: ["Playing guitar", "Gaming", "Programming"]
 ```
 <h2>Programming languages and software I have used and learned</h2>
